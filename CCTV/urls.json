@@ -1,0 +1,4 @@
+{
+    "default_camera": [0],
+    "stream": ["rtmp://localhost/live/stream"]
+}
